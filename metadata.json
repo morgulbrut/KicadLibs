@@ -23,6 +23,15 @@
     },
     "versions": [
         {
+            "version": "0.0.2",
+            "status": "stable",
+            "kicad_version": "9.0.0",
+            "download_sha256": "13b23db3b0fa2ac6cd90dc5e18d51fa9f69eb630ff7b5b8adea7ee334b6dfe7f",
+            "download_size": 7181,
+            "download_url": "https://github.com/morgulbrut/kicadlibs/releases/download/0.0.2/kicadlibs.zip",
+            "install_size": 17173
+        },
+        {
             "version": "0.0.1",
             "status": "stable",
             "kicad_version": "9.0.0",

@@ -9,14 +9,14 @@
     },
     "packages": {
         "url": "https://raw.githubusercontent.com/morgulbrut/kicadlibs/main/packages.json",
-        "sha256": "80025794cca00c08970ff6d9c455002943cf694561e043b0b146dd99b3ae02f8",
-        "update_timestamp": 1790861639,
-        "update_time_utc": "2026-10-01 13:33:59"
+        "sha256": "56c70aa40d8e0934df575bb538a1b4ba973ff03b003ce485561f5d4aff8b86e9",
+        "update_timestamp": 1790862771,
+        "update_time_utc": "2026-10-01 13:52:51"
     },
     "resources": {
         "url": "https://raw.githubusercontent.com/morgulbrut/kicadlibs/main/resources.zip",
-        "sha256": "6b7985ffedea1be9070d1a7cc254d8ff1731febbdf4a1189138737f3baa5e87d",
-        "update_timestamp": 1790861639,
-        "update_time_utc": "2026-10-01 13:33:59"
+        "sha256": "7b0173d3aac3fd1f7731cfae61269a55141093da1a6eed4f59a86d7fd85a1f1f",
+        "update_timestamp": 1790862771,
+        "update_time_utc": "2026-10-01 13:52:51"
     }
 }

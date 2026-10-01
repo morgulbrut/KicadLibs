@@ -1,0 +1,16 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1#/definitions/Repository",
+    "name": "SGMK KiCad Parts PCM repository",
+    "maintainer": {
+        "name": "SGMK",
+        "contact": {
+            "web": "https://github.com/<github-owner>/kicadlibs"
+        }
+    },
+    "packages": {
+        "url": "https://raw.githubusercontent.com/<github-owner>/kicadlibs/main/packages.json",
+        "sha256": "",
+        "update_timestamp": 0,
+        "update_time_utc": ""
+    }
+}

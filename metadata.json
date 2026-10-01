@@ -3,23 +3,23 @@
     "name": "SGMK KiCad Parts",
     "description": "KiCad symbols, footprints and 3D models for SGMK parts.",
     "description_full": "Symbols, footprints and 3D models for parts used by SGMK, organized by category (Modules, Optocouplers, Switches, ...).\n\nSee the repository README for contribution guidelines.",
-    "identifier": "com.github.<github-owner>.kicadlibs",
+    "identifier": "com.github.morgulbrut.kicadlibs",
     "type": "library",
     "author": {
         "name": "SGMK",
         "contact": {
-            "web": "https://github.com/<github-owner>/kicadlibs"
+            "web": "https://github.com/morgulbrut/kicadlibs"
         }
     },
     "maintainer": {
         "name": "SGMK",
         "contact": {
-            "web": "https://github.com/<github-owner>/kicadlibs"
+            "web": "https://github.com/morgulbrut/kicadlibs"
         }
     },
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "homepage": "https://github.com/<github-owner>/kicadlibs"
+        "homepage": "https://github.com/morgulbrut/kicadlibs"
     },
     "versions": []
 }

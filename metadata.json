@@ -21,5 +21,15 @@
     "resources": {
         "homepage": "https://github.com/morgulbrut/kicadlibs"
     },
-    "versions": []
+    "versions": [
+        {
+            "version": "0.0.1",
+            "status": "stable",
+            "kicad_version": "9.0.0",
+            "download_sha256": "6153eadcc8335141526e48707f8761f2971fc05b2f1b4fc2abcc3fcf7c24c710",
+            "download_size": 29101,
+            "download_url": "https://github.com/morgulbrut/kicadlibs/releases/download/0.0.1/kicadlibs.zip",
+            "install_size": 39619
+        }
+    ]
 }

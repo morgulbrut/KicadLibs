@@ -1,3 +1,39 @@
 {
-    "packages": []
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "SGMK KiCad Parts",
+            "description": "KiCad symbols, footprints and 3D models for SGMK parts.",
+            "description_full": "Symbols, footprints and 3D models for parts used by SGMK, organized by category (Modules, Optocouplers, Switches, ...).\n\nSee the repository README for contribution guidelines.",
+            "identifier": "com.github.morgulbrut.kicadlibs",
+            "type": "library",
+            "author": {
+                "name": "SGMK",
+                "contact": {
+                    "web": "https://github.com/morgulbrut/kicadlibs"
+                }
+            },
+            "maintainer": {
+                "name": "SGMK",
+                "contact": {
+                    "web": "https://github.com/morgulbrut/kicadlibs"
+                }
+            },
+            "license": "CC-BY-SA-4.0",
+            "resources": {
+                "homepage": "https://github.com/morgulbrut/kicadlibs"
+            },
+            "versions": [
+                {
+                    "version": "0.0.1",
+                    "status": "stable",
+                    "kicad_version": "9.0.0",
+                    "download_sha256": "6153eadcc8335141526e48707f8761f2971fc05b2f1b4fc2abcc3fcf7c24c710",
+                    "download_size": 29101,
+                    "download_url": "https://github.com/morgulbrut/kicadlibs/releases/download/0.0.1/kicadlibs.zip",
+                    "install_size": 39619
+                }
+            ]
+        }
+    ]
 }
